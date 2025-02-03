@@ -8,18 +8,20 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차"
+  - title: "Development environment"
     children: 
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
-  - title: "대목차2"
+      - title: "Git"
+        url: /git/  
+      - title: "AI"
+        url: /ai/      
+  - title: "Programming language"
     children: 
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/        
+      - title: "C#"
+        url: /c#/
+      - title: "Java"
+        url: /java/
+      - title: "Python"
+        url: /python/ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
